@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks%3D@70.39.198.35:54166#%40Alpha_v2rayIP%20
-
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.27:443?pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&type=tcp&encryption=none&sid=c6ef72e4635d15a5&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=storage.yandex.net&headerType=none#%40Alpha_v2rayIP%20
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#%40Alpha_v2rayIP%20
 
 vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?type=tcp&security=none&encryption=none&headerType=none#%40Alpha_v2rayIP%20
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#%40Alpha_v2rayIP%20
