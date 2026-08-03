@@ -7,3 +7,5 @@ vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?type=tcp&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#%40Alpha_v2rayIP%20
 
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&encryption=none&sni=qq.utiltools.ru&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&security=reality&headerType=none#%40Alpha_v2rayIP%20
+
+vless://779e9985-dcbe-4813-824f-60fbb8030748@ami.dearhossein-taktaz.ir:14611?security=reality&pbk=qZm_ES3VCjD7FuifdnCzb13IoTrckgm8Y4jg65LkoHc&sid=729d4a73753c&sni=api.semiconductor.samsung.com&encryption=none&spx=%2F66418845290763c&type=tcp&headerType=none&fp=chrome#%40Alpha_v2rayIP%20
