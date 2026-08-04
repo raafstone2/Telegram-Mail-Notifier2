@@ -1,5 +1,5 @@
-vless://779e9985-dcbe-4813-824f-60fbb8030748@ami.dearhossein-taktaz.ir:14611?security=reality&pbk=qZm_ES3VCjD7FuifdnCzb13IoTrckgm8Y4jg65LkoHc&sid=729d4a73753c&sni=api.semiconductor.samsung.com&encryption=none&spx=%2F66418845290763c&type=tcp&headerType=none&fp=chrome#%40Alpha_v2rayIP%20
-
 vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@172.67.133.170:8080?encryption=none&security=none&path=%2Fsync&type=ws&host=peekconfigg.vipserver1-39d.workers.dev#%40Alpha_v2rayIP%20
 
 vless://d9464b8f-eef8-49e3-9225-7f144b5f0e78@45.74.178.108:2053?encryption=none&security=none&type=ws#%40Alpha_v2rayIP%20%20
+
+vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=delicate-base-12ed.287-133.workers.dev&security=none&encryption=none&type=ws#%40Alpha_v2rayIP%20
