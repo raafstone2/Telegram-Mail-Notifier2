@@ -7,3 +7,5 @@ vless://69a74770-7152-4a27-bef0-2615ca16e1b1@77.233.214.116:40443?encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40Alpha_v2rayIP%20
 
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?sni=static.lotussec.com&insecure=0&encryption=none&allowInsecure=0&host=static.lotussec.com&alpn=h2&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&type=xhttp&mode=stream-one&fp=firefox#%40Alpha_v2rayIP%20
+
+trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&allowInsecure=0&host=www.ignitelimit.com&path=%2Fassignment&security=tls&type=ws#%40Alpha_v2rayIP%20
