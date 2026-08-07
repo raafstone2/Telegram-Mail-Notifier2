@@ -1,5 +1,3 @@
-vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@185.65.202.156:443?encryption=none&flow=xtls-rprx-vision&pbk=gtKMi9Q9ZMYxe-ZvzmbpPI-uE6YcFM84xYSw7bpKF3w&type=tcp&sid=52c579ed2ce06c26&security=reality&headerType=none&sni=ger.leontunel.ru&fp=chrome#%40Alpha_v2rayIP%20
-
 vless://69a74770-7152-4a27-bef0-2615ca16e1b1@77.233.214.116:40443?encryption=none&flow=xtls-rprx-vision&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&type=tcp&sid=bd72&security=reality&headerType=none&sni=deepl.com&fp=firefox#%40Alpha_v2rayIP%20
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40Alpha_v2rayIP%20
