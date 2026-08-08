@@ -1,5 +1,3 @@
-trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&allowInsecure=0&host=www.ignitelimit.com&path=%2Fassignment&security=tls&type=ws#%40Alpha_v2rayIP%20
-
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&security=reality&sni=hasty-dolphin.cdn.cachefleet.com&type=tcp#%40Alpha_v2rayIP%20
 
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&security=reality&sni=dl.google.com&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=tcp#%40Alpha_v2rayIP%20
