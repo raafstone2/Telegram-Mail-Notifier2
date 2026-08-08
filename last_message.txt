@@ -7,3 +7,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40
 vless://96de8fe7-7b9b-4ba2-8f2d-54cd4f51c6f2@153.52.92.216:20000?security=none&type=tcp&encryption=none&headerType=none#%40Alpha_v2rayIP%20
 
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?fp=qq&encryption=none&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&type=tcp&headerType=none&security=reality#%40Alpha_v2rayIP%20
+
+vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?headerType=none&security=none&encryption=none&type=tcp#%40Alpha_v2rayIP%20
