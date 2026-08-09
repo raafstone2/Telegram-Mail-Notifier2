@@ -9,3 +9,5 @@ vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?host=%2F%3FBIA_T
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?sid=69d4&type=tcp&headerType=none&sni=deepl.com&flow=xtls-rprx-vision&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&security=reality&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&encryption=none#%40Alpha_v2rayIP%20
 
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@152.228.215.219:8443?pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&headerType=none&sni=sellflow.org&flow=xtls-rprx-vision&encryption=none&type=tcp#%40Alpha_v2rayIP%20
+
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.21:443?sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none&headerType=none&type=tcp&security=reality&flow=xtls-rprx-vision#%40Alpha_v2rayIP%20
