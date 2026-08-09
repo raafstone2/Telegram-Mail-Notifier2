@@ -9,3 +9,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22224?type=tcp&encrypti
 vless://272dcdf4-0cbd-4b81-a1c2-702d15de605b@193.39.9.241:8443?type=tcp&spx=%2Fcb3tpZvrpBRswwn&security=reality&sni=www.intel.com&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&fp=chrome&headerType=none&encryption=none&sid=d7a66e6404dd96dc#%40Alpha_v2rayIP%20
 
 vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=tcp&flow=xtls-rprx-vision&headerType=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&sni=smartcaptcha.yandexcloud.net&encryption=none&security=reality#%40Alpha_v2rayIP%20
+
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?sid=69d4&type=tcp&headerType=none&sni=deepl.com&flow=xtls-rprx-vision&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&security=reality&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&encryption=none#%40Alpha_v2rayIP%20
