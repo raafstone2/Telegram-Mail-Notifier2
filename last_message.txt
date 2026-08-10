@@ -5,3 +5,5 @@ vless://SoonTeam@191.215.37.90:8443?fp=chrome&type=xhttp&extra=%7B%0A%20%20%22mo
 vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8880?headerType=none&pbk=nSm8X2IETT4-xYk-goRLHdQ4FlgeD-zCVrCstE2tPHQ&spx=%2FeW10M94Ji1nUvQ0&fp=chrome&encryption=none&security=reality&sni=www.intel.com&sid=b8&type=tcp#%40Alpha_v2rayIP%20
 
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?type=xhttp&host=status.play.google.com&security=reality&path=%2F&mode=auto&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%224194304-8388608%22%2C%0A%20%20%22seqPlacement%22%20%3A%20%22query%22%2C%0A%20%20%22uplinkChunkSize%22%20%3A%20%2232768-65536%22%2C%0A%20%20%22uplinkHTTPMethod%22%20%3A%20%22POST%22%0A%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&encryption=none&fp=ios&sni=status.play.google.com&sid=49bcf0de6392f0&spx=%2F#%40Alpha_v2rayIP%20
+
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?flow=xtls-rprx-vision&type=tcp&fp=chrome&headerType=none&security=reality&encryption=none&sni=luminous-vortex.cdn.cachefleet.com&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M#%40Alpha_v2rayIP%20
