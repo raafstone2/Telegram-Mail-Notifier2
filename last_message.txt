@@ -3,3 +3,5 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.4.20:13868?sni=www.epicgames.
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?sid=40ce08cf20c67003&headerType=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&flow=xtls-rprx-vision&type=tcp&encryption=none&sni=storage.yandex.net&security=reality#%40Alpha_v2rayIP%20
 
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.160.158:443?sni=www.cloudflare.com&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&security=reality&encryption=none&sid=29fd3dc0210c&type=tcp&headerType=none&fp=firefox&spx=%2F#%40Alpha_v2rayIP%20
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM
