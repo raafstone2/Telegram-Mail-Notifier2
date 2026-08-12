@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM
-
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.65:443?sni=www.cloudflare.com&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&security=reality&encryption=none&sid=29fd3dc0210c&spx=%2F&fp=firefox&headerType=none&type=tcp#%40Alpha_v2rayIP%20
 
 vless://92a4cb10-228f-4239-8c63-c566b20a9167@104.16.100.66:8880?security=none&encryption=none&type=ws&host=square-waterfall-c1de.199-82d.workers.dev&path=%2Fpyip#%40Alpha_v2rayIP%20
@@ -9,3 +7,5 @@ vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?encryption=none&
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?encryption=none&security=none&type=ws&host=weathered-union-5358.101-262.workers.dev#%40Alpha_v2rayIP%20
 
 vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?type=ws&security=none&encryption=none&host=shiny-mud-d9fa.466.workers.dev#%40Alpha_v2rayIP%20
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw%3D@188.116.23.244:8388#%40Alpha_v2rayIP%20
