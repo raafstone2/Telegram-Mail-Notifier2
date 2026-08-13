@@ -1,3 +1,5 @@
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?sid=29b21343ab4d&sni=www.amd.com&security=reality&path=%2F&encryption=none&fp=firefox&spx=%2Fy52f8gp4rv1il6u&mode=auto&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%0A%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&type=xhttp#%40Alpha_v2rayIP%20%20
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=%2F&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&security=none#%40Alpha_v2rayIP%20
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22222?security=none&headerType=none&encryption=none&type=tcp#%40Alpha_v2rayIP%20
