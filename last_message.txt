@@ -3,3 +3,5 @@ vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?sid=29b21343ab4d&s
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=%2F&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&security=none#%40Alpha_v2rayIP%20
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22222?security=none&headerType=none&encryption=none&type=tcp#%40Alpha_v2rayIP%20
+
+vless://32f9646d-ca52-439c-ab2c-96838550083c@185.113.10.14:44649?security=none&path=%2F&host=paktloss-production.up.railway.app&encryption=none&type=ws#%40Alpha_v2rayIP%20
