@@ -3,3 +3,5 @@ vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?security=none&type
 ss://YWVzLTI1Ni1nY206WVdNeU1tUXhPVGxrWmpneE0ySXdNbVUxT1RobE1qaGhOMkZtT1dJNQ
 
 vless://71e42adb-3514-44bf-b243-70580e15d804@95.182.82.131:443?type=tcp&headerType=none&security=none&encryption=none#%40Alpha_v2rayIP%20
+
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.138.112:443?type=tcp&flow=xtls-rprx-vision&fp=firefox&headerType=none&sid=1899e4d82e80cbcf&encryption=none&sni=v938014.hosted-by-vdsina.com&pbk=2guR3_fpRkIfDzdWBWDibb0H2Ypn06vq2vqMF4WfNUk&security=reality#%40Alpha_v2rayIP%20
