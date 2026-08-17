@@ -3,3 +3,5 @@ vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.138.112:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRnFEVkdXdkJvd0V3R3Ra@20.87.211.186:443#%40Alpha_v2rayIP%20
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&encryption=none&security=reality#%40Alpha_v2rayIP%20
+
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@179.255.185.105:443?type=tcp&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&fp=chrome&security=reality&sid=5629431325884ff0&headerType=none&encryption=none&sni=sha6.o4ka-internet.com&flow=xtls-rprx-vision#%40Alpha_v2rayIP%20
