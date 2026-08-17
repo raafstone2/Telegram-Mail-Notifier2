@@ -7,3 +7,5 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?flow=xtls-rprx-
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@179.255.185.105:443?type=tcp&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&fp=chrome&security=reality&sid=5629431325884ff0&headerType=none&encryption=none&sni=sha6.o4ka-internet.com&flow=xtls-rprx-vision#%40Alpha_v2rayIP%20
 
 vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.231.102.219:443?headerType=none&fp=firefox&sid=ff776ff77be48b88&sni=swed1.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&flow=xtls-rprx-vision&type=tcp&encryption=none&security=reality#%40Alpha_v2rayIP%20
+
+vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?spx=%2F&security=reality&sni=360.yandex.ru&fp=firefox&serviceName=grpc&type=grpc&encryption=none&mode=gun&sid=6ba85179e30d4fc2&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A#%40Alpha_v2rayIP%20
