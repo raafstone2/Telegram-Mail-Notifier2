@@ -7,3 +7,5 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@147.45.50.24:13868?fp=firefox&secur
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22222?encryption=none&security=none&type=tcp&headerType=none#%40Alpha_v2rayIP%20%20
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%40Alpha_v2rayIP%20
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.187:443?security=reality&sni=savesafe.run&type=tcp&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&sid=e4f6a3446ac34a24&flow=xtls-rprx-vision&fp=firefox&headerType=none#%40Alpha_v2rayIP%20
