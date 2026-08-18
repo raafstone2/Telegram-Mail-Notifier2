@@ -1,5 +1,3 @@
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.231.102.219:443?headerType=none&fp=firefox&sid=ff776ff77be48b88&sni=swed1.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&flow=xtls-rprx-vision&type=tcp&encryption=none&security=reality#%40Alpha_v2rayIP%20
-
 vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?spx=%2F&security=reality&sni=360.yandex.ru&fp=firefox&serviceName=grpc&type=grpc&encryption=none&mode=gun&sid=6ba85179e30d4fc2&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A#%40Alpha_v2rayIP%20
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@147.45.50.24:13868?fp=firefox&security=reality&sni=booking.com&headerType=none&flow=xtls-rprx-vision&type=tcp&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc#%40Alpha_v2rayIP%20
