@@ -7,3 +7,5 @@ vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?headerType=none&fl
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@193.233.102.214:443?type=tcp&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&encryption=none&fp=edge&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614&headerType=none#%40Alpha_v2rayIP%20
 
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.39.206.241:443?type=tcp&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&encryption=none&fp=firefox&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614&headerType=none#%40Alpha_v2rayIP%20
+
+vless://9dfb0cb4-4fda-4a82-95fe-4d3b6f7ef8fa@95.154.221.155:443?sid=42171a632f3b99ed&fp=firefox&flow=xtls-rprx-vision&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&headerType=none&encryption=none&security=reality&type=tcp&sni=strapi.io#%40Alpha_v2rayIP%20
