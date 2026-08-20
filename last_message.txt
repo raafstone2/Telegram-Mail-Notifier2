@@ -1,3 +1,1 @@
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?sid=62b6d6e64d461d78&fp=firefox&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&mode=auto&encryption=none&path=%2F%3F%40TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2048&security=reality&type=xhttp&sni=api.getsavesafe.space#%40Alpha_v2rayIP%20
-
 vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?security=none&encryption=none&headerType=none&type=tcp#%40Alpha_v2rayIP%20
