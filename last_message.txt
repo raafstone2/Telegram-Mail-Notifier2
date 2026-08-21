@@ -1,3 +1,5 @@
 vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?security=none&encryption=none&headerType=none&type=tcp#%40Alpha_v2rayIP%20
 
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&sni=gb.cdn.cachefleet.com&flow=xtls-rprx-vision&type=tcp&security=reality&encryption=none&fp=firefox#%40Alpha_v2rayIP%20
+
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?headerType=none&flow=xtls-rprx-vision&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&fp=firefox&security=reality&type=tcp&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#%40Alpha_v2rayIP%20
