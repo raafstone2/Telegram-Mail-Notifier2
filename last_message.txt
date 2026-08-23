@@ -1,3 +1,1 @@
-vless://682102a3-9731-4562-ad28-04dc62bc8dee@2.27.40.190:443?encryption=none&sni=www.amd.com&security=reality&flow=xtls-rprx-vision&headerType=none&sid=635a76c25a4b1820&fp=firefox&type=tcp&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ#%40Alpha_v2rayIP%20
-
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@193.233.102.214:443?type=tcp&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&encryption=none&fp=edge&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614&headerType=none#%40Alpha_v2rayIP%20
