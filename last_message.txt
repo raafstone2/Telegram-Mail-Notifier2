@@ -1,1 +1,1 @@
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@193.233.102.214:443?type=tcp&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&encryption=none&fp=edge&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614&headerType=none#%40Alpha_v2rayIP%20
+vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?security=none&encryption=none&headerType=none&type=tcp#%40Alpha_v2rayIP%20
