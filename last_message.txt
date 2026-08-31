@@ -61,3 +61,13 @@ vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?security=reality&e
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sid=ed0cd5cc2e26e6e7#@
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#@
+
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&sid=88d9dc52ef39c8bd#@ProxyMTProtoIR
+
+vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@147.45.226.155:8443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=wsnl24.wba-pn.ru#@ProxyMTProtoIR
+
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#@ProxyMTProtoIR
+
+vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#@ProxyMTProtoIR
+
+vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tg1.wba-pn.ru#@@ProxyMTProtoIR
