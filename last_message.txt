@@ -1,35 +1,31 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.177:62145?#@
+vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@5.83.129.124:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=50gport3.potatosubge20.org#%40
 
-vless://626c0789-16d1-4815-be8b-bd03959d7d12@159.195.240.82:443?pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&security=reality&flow=xtls-rprx-vision&sni=vie1.tsumshop.org&encryption=none&sid=c8c75aaf699259b4&fp=firefox&type=tcp&headerType=none#@
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%40
 
-vless://521dd881-9ff9-4480-9217-10d717685895@5.75.200.15:64770?security=none&encryption=mlkem768x25519plus.native.0rtt.wBNHnkFKPPvmtIINg9rhOCmDuna2Gc9VGz85SwQMw3k&headerType=none&type=tcp#@
+vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#%40
 
-vless://521dd881-9ff9-4480-9217-10d717685895@5.75.200.15:49048?security=none&encryption=mlkem768x25519plus.native.0rtt.nT9lDXXp2cIaxqkint7e_jkiJhGsgCFxBzcKdM9Q1QE&headerType=none&type=tcp#@
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?mode=gun&security=tls&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=derman.neobo-tooth.ru#%40
 
-vless://521dd881-9ff9-4480-9217-10d717685895@5.75.200.15:18137?security=none&encryption=mlkem768x25519plus.native.0rtt.k0SRCJgzp_IYeAx_2Em39vbUjtpb_oY8EwDQgT31cDY&headerType=none&type=tcp#@
+vless://d62d49cb-a9b5-4f1f-90a4-316ecc3dadc4@192.142.37.217:443?security=reality&encryption=none&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=89e0494514ec#%40
 
-vless://521dd881-9ff9-4480-9217-10d717685895@5.75.200.15:49479?security=none&encryption=mlkem768x25519plus.native.0rtt.NCIstB0v8x8UuhTITJuh-3KE_5KVkpdjHthpqZUgXEo&headerType=none&type=tcp#@
+vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#%40
 
-vless://521dd881-9ff9-4480-9217-10d717685895@5.75.200.15:60308?security=none&encryption=mlkem768x25519plus.native.0rtt.xz_teb3k8-eUsgbkZFBkeLukVHDc_pTX4MiXwlUIanY&headerType=none&type=tcp#@
+vless://03e5f7fb-d569-403b-8740-9e3b4f7dd94a@151.242.168.239:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#%40
 
-vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?security=reality&encryption=none&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=firefox&type=grpc&serviceName=remnagrpc&sni=finanzfluss.de&sid=8b71da690c3d5d03#@
+vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASH&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=firefox&type=grpc&serviceName=remnagrpc&sni=finanzfluss.de&sid=8b71da690c3d5d03#%40
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=GYGRmooJbciRJqgRyAhyuY4taALwvAGNN721zIKA4g0&fp=firefox&type=grpc&serviceName=a8a08a507c&sni=www.cloudflare.com&sid=d2f6787eda1b6fa0#%40
 
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:18443?security=reality&encryption=none&pbk=iw5KmjMc7yR6MBkrWdIQurFruKboxQeBKOq0DHFgtyM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=cbed1537701114e4#@
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&host=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#%40
 
-vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?security=reality&encryption=none&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=firefox&type=grpc&serviceName=remnagrpc&sni=finanzfluss.de&sid=8b71da690c3d5d03#@meliproxyy
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.112:8443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#%40ProxyMTProtoIR%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sid=ed0cd5cc2e26e6e7#@
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40ProxyMTProtoIR%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#@
+vless://a6a9b5d5-06de-41e4-99b5-448decbee8e6@199.232.78.159:443?mode=auto&path=%2FUONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN&security=tls&encryption=mlkem768x25519plus.native.0rtt.kp-kfxTHgkUTcb6IqYVosZUddrjsSU_rJPxT-vfqvxg&insecure=0&host=uonshop.global.ssl.fastly.neT&fp=firefox&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=ssl.fastly.com#%E2%80%8E%40ProxyMTProtoIR%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C
 
-vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&sid=88d9dc52ef39c8bd#@ProxyMTProtoIR
+vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-tr01.korvexe.ir:21570?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.5SJmX8GGvlmVzd0r_T8yMc25nAj-kXw9Q4Cp831Vj1Y&host=direct-tr01.korvexe.ir&type=ws#%40ProxyMTProtoIR%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C
 
-vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@147.45.226.155:8443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=wsnl24.wba-pn.ru#@ProxyMTProtoIR
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40ProxyMTProtoIR%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C
 
-vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#@ProxyMTProtoIR
-
-vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#@ProxyMTProtoIR
-
-vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tg1.wba-pn.ru#@@ProxyMTProtoIR
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.112:8443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#%40ProxyMTProtoIR%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C
