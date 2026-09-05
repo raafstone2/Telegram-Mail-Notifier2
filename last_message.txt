@@ -1,15 +1,3 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%40ProxyMTProtoIR
-
-vless://08ffff12-93bb-42eb-8c83-6489644a1d04@a2.arshia-nova.ir:443/?type=ws&encryption=none&flow=&host=c12.com&path=%2F&security=tls&sni=ssl.fastly.com&alpn=h2networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox#%40ProxyMTProtoIR
-
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.102.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv3.jarvesitw.ru&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&sid=2aef5875#%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D8%AA%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%20%DA%A9%D9%86%DB%8C%D8%AF%20
-
-vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809/?type=tcp&encryption=none&flow=#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%40ProxyMTProtoIR
-
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@88.216.190.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv91.jarvesitw.ru&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=QMkh_UZF6wTVrYukjoZTbrRUziZxT-s0Oj8zVP_RuH0&sid=b0ffeec3#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%40ProxyMTProtoIR
-
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv13.betust.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5#%40ProxyMTProtoIR
-
 vless://ebfc0509-53ed-46c6-96d9-e6788ab31cac@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&allowinsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=%2F#@
 
 vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.154:190?flow=xtls-rprx-vision&encryption=none&security=reality&sni=waldes.amusnetnot.site&fp=chrome&pbk=t59o65kEgrYZDGHg3AayZmzmNMsTI8LIqfRXopVyCAY&allowinsecure=0&type=tcp&headerType=none#@
