@@ -1,23 +1,19 @@
-trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=firefox&type=ws&host=mitivpn-mitivpn-mitivpn-bb-mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%D8%A8%D9%BE%DB%8C%D9%88%D9%86%D8%AF%40ProxyMTProtoIR%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%88%D9%82%D8%AA
+vless://fc60d2f9-e3b5-449f-80d8-385c08e93c94@153.52.92.239:11437?security=reality&encryption=none&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=7de83d0e31eb75ef#@
 
-trojan://MiTiVPN@199.232.78.160:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&type=ws&host=mitivpn-ss-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%D8%A8%D9%BE%DB%8C%D9%88%D9%86%D8%AF%40ProxyMTProtoIR%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%88%D9%82%D8%AA
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.70:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=localhost#@
 
-vless://6509c7a8-ca09-4988-b11d-ad355f894cdc@162.159.82.123:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=%2F&headerType=none#@
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.77:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=localhost#@
 
-vless://6509c7a8-ca09-4988-b11d-ad355f894cdc@104.16.22.21:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=%2F&headerType=none#@
+vless://857e4397-7c54-4c19-ba7e-2fbc28ab1068@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@
 
-vless://9ec40afc-6672-4b88-b186-bbf15361b53c@104.16.22.21:2053?type=ws&encryption=none&host=ca.roomode.ir&security=tls&sni=ca.roomode.ir&path=%2F&fp=chrome&headerType=none#@
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#@
 
-vless://3ffbdbf3-0503-4d72-a5ac-160cb8f3ebe5@104.16.22.21:2053?type=ws&encryption=none&host=fr.roomode.ir&security=tls&sni=fr.roomode.ir&path=%2F&fp=chrome&headerType=none#@
+vless://857e4397-7c54-4c19-ba7e-2fbc28ab1068@polandpanelmarzband.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@
 
-vless://0692cc36-6cdc-4f75-add3-f8e440e59cfe@bazaar.ir.aparat.ir.alibaba.ir.fr.shagreatgain.roomode.ir:2023?type=tcp&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lw0JrDLsQtANuYqDnmvWWjbG4IjRsThDKzxrkvw8LRU&sid=21ddd0109c0be7b6&spx=#@
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@
 
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@45.145.42.43:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=avczx.cloudvk.cc&fp=chrome&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&type=tcp&headerType=none#@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#@
 
-vless://9e6b8db1-da80-494f-bad7-7a0451f801a1@5.152.223.193:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=strapi.io&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#@
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@lovesykun.cn:443?path=%2F15753%2Fsocket&security=tls&encryption=none&insecure=0&host=dews.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=lovesykun.cn#@
 
-vless://09c62e58-dcb5-4046-8a4a-49184f555732@fnb.cloudbashz.ir:4006?encryption=none&security=reality&sni=www.action.com&fp=chrome&pbk=iNVZBiAH9hzLyqGnD6cc6waNryJ1KDaYk80ufskPQD0&sid=37938270d49c150c&type=tcp&headerType=none#@
-
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=google.com&fp=chrome&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp&headerType=none#@
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?encryption=none&security=reality&sni=md3.univesalsrv.com&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&type=grpc&mode=gun&authority=&serviceName=stats.v2.PushService#@
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@
