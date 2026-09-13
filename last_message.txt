@@ -35,3 +35,9 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&serviceName=security.debian.org&mode=gun#@
 
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@milan.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&host=maple.adaspoloandco.com&fp=chrome&type=ws&sni=maple.adaspoloandco.com#@
+
+trojan://MiTiVPN@199.232.78.101:443?alpn=http%2F1.1&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#
+
+trojan://MiTiVPN@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#
+
+trojan://MiTiVPN@151.101.56.101:443?alpn=http%2F1.1&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#
