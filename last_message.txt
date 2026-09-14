@@ -1,31 +1,17 @@
-trojan://MiTiVPN@199.232.78.101:443?alpn=http%2F1.1&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@
 
-trojan://MiTiVPN@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@
 
-trojan://MiTiVPN@151.101.56.101:443?alpn=http%2F1.1&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#@
 
-vless://becd3b04-62a8-4b74-be67-be746008b4c2@179.254.115.225:443?security=reality&encryption=none&pbk=BjBzyn84HIjjpV94XxyY9pcvYtEhD-aGnOI7mnzgpD4&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=de-astra.grani-gaming.shop&sid=f1c3e7a9d4b06285#%40
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@95.85.228.65:443?security=reality&encryption=none&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl1.hat.onl&sid=054602d818379876#@
 
-vless://624208cf-54e0-4341-823b-1bee6595fce9@45.135.128.5:443?security=reality&encryption=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=upload.tbotapi.ru#%40
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=firefox&type=grpc&serviceName=TunService&sni=www.hp.com#@vasl_bashim
 
-vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?security=reality&encryption=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=upload.tbotapi.ru#%40
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#@
 
-vless://becd3b04-62a8-4b74-be67-be746008b4c2@185.236.8.83:443?mode=gun&security=reality&encryption=none&pbk=KIWwTEe2oqmJF69P3KkR85kTvv0vhf2biYT5KJ0VCRs&fp=firefox&type=grpc&serviceName=grpc&sni=mesh-nlwey.spliceflowtech.com&sid=f1c3e7a9d4b06285#%40
+vless://1251856f-1e0a-4c5f-99d3-c2d123edc755@144.31.2.58:443?mode=auto&path=%2Fapi&security=tls&alpn=h2&encryption=none&insecure=0&host=mesh-8012.spliceflowtech.com&fp=firefox&type=xhttp&allowInsecure=0&sni=mesh-8012.spliceflowtech.com#@
 
-vless://becd3b04-62a8-4b74-be67-be746008b4c2@144.31.7.182:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=grpc&allowInsecure=0&sni=cdn-582.spliceflowtech.com#%40
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#@
 
-vless://2c070f10-57e8-442b-b6cb-ff39b35d929d@95.85.245.163:442?security=reality&encryption=none&pbk=urhSusjL1QqHdmlCrvbC9yBftecrgQMuhWmfGh0CUFg&headerType=none&fp=firefox&spx=%2Fa938861e46cc64b&type=tcp&flow=xtls-rprx-vision&sni=p-nt-www-amazon-com-kalias.amazon.com&sid=ab#%40
-
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40
-
-vless://279a8eef-898f-44ef-b4f5-67a494f4b542@77.233.213.106:40443?security=reality&encryption=none&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5b98#%40
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%40
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#%40
-
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#%40
-
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=edge&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#%40
+vless://1251856f-1e0a-4c5f-99d3-c2d123edc755@144.31.90.226:443?security=reality&encryption=none&pbk=KoIVRyzLxMxYPukmZ7G7u9fe9dtu7Ir_zQ3OCIz_pWc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fih2.spliceflowtech.com&sid=f1c3e7a9d4b06285#@
