@@ -55,3 +55,13 @@ vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443?security=reality&e
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%40
 
 vless://8ccb3a94-9e3c-45d0-a280-850faea6bbff@openai.com:443?path=%2Fvl%2FEpnESUGGdoM40CHmsDT%3Fed%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fdjl8sdmc774ru70b3a45lv4w8.akbar1sale6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fdjl8sdmc774ru70b3a45lv4w8.akbar1sale6.workers.dev#%40
+
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40ProxyMTProtoIR%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9C%85
+
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40ProxyMTProtoIR%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9C%85
+
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQHFhcmFfYXRheWkgfCDwn4eo8J-GpiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40ProxyMTProtoIR%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9C%85
+
+vless://ac64aec6-85ee-4fc7-b34b-60a7bcf236ec@91.186.216.100:7005?security=reality&encryption=none&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com#%40ProxyMTProtoIR%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9C%85
