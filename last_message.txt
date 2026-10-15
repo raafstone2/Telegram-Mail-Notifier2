@@ -1,17 +1,3 @@
-vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#@ProxyMTProtoIR
-
-vless://284c4975-f7f4-440b-8ca6-98552f605470@de1hdojkqj0hi68ouvd1r2wsdcet61vb8.hostnix.ir:2053?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-apps-features.googleusercontent.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=dex1hdojkqj0hi68ouvd1r2wsdcet61vb8.hostnix.ir#@ProxyMTProtoIR
-
-vless://a10c9da4-4dde-402f-a9d4-d539272493da@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#@ProxyMTProtoIR
-
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops5788tugfuy.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ops5788tugfuy.localip.ir&type=ws&allowInsecure=0&sni=ops5788tugfuy.localip.ir#@ProxyMTProtoIR
-
-vless://284c4975-f7f4-440b-8ca6-98552f605470@usagett3q6c48ehnra35pqrnunqajoi7yrp.fanavarancenter24.ir:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-fe.googleapis.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=usagextt3q6c48ehnra35pqrnunqajoi7yrp.fanavarancenter24.ir#@ProxyMTProtoIR
-
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de1.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de1.balancer.vbuste-bot.com&sid=4be4110078ebed4a#@ProxyMTProtoIR
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#@ProxyMTProtoIR
-
 vless://7684d613-0ae9-41d2-9a38-66752ae680b4@146.75.56.210:443?encryption=none&security=tls&sni=speedtest.net&alpn=h3%2C%20h2%2C%20http%2F1.1&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&mode=auto&host=sikimshot.global.ssl.fastly.net&path=%2Fmelowashere%3Fed%3D2048#@ProxyMTProtoIR
 
 vless://e2236167-aff5-4539-b6c2-c234634ca807@easipingop1.up.railway.app:443?encryption=none&security=tls&sni=easipingop1.up.railway.app&alpn=http%2F1.1&fp=chrome&type=ws&host=easipingop1.up.railway.app&path=%2Fcdn%2F090fd6e1-7371-41a4-b22e-a95c84ced63d%3Fed%3D2560&headers=%7B%0A%20%20%22Host%22%3A%20%22easipingop1.up.railway.app%22%0A%7D#@ProxyMTProtoIR
