@@ -1,19 +1,23 @@
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ProxyMTProtoIR
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?path=%2FAU6W&security=tls&encryption=none&insecure=0&host=au6.pad-sservice.lat&type=ws&allowInsecure=0&sni=au6.pad-sservice.lat#@ProxyMTProtoIR
 
-vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?security=reality&encryption=none&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=us.dark-bit.cc&sid=9ab513f082d4c6e1#@ProxyMTProtoIR
+trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#@ProxyMTProtoIR
 
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@ProxyMTProtoIR
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#@ProxyMTProtoIR
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=chrome&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#@ProxyMTProtoIR
+vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#@ProxyMTProtoIR
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#@ProxyMTProtoIR
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#@ProxyMTProtoIR
 
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#@ProxyMTProtoIR
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@ProxyMTProtoIR
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@ProxyMTProtoIR
+trojan://humanity@212.183.88.136:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@ProxyMTProtoIR
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#@ProxyMTProtoIR
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@ProxyMTProtoIR
 
-vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#@ProxyMTProtoIR
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@167.82.64.64:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@ProxyMTProtoIR
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@ProxyMTProtoIR
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@ProxyMTProtoIR
+
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#@ProxyMTProtoIR
+
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?path=%2FA11U&security=tls&encryption=none&insecure=0&host=au2.pad-service.com&type=ws&allowInsecure=0&sni=au2.pad-sservice.lat#@ProxyMTProtoIR
